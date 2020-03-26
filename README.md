@@ -9,3 +9,10 @@
 * 'git status' - Show status of repo
 * 'git rm --cached fileName' - Remove fileName from commit index
 * 'git log --oneline' - Show commit history (Compact)
+
+
+### Branching Commands
+
+* 'git branch' - List local branches, highlight checked-out branch
+* 'git branch branchName' - Create branch 'branchName'
+* 'git checkout branchName' - Move to branch 'branchName'
